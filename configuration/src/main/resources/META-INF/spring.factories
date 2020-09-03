@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.dragon.springboot.configuration.config.AConfiguration,\
+  com.dragon.springboot.configuration.config.BConfiguration
